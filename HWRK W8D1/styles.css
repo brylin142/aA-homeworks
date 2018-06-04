@@ -1,0 +1,31 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.jotitdown {
+  vertical-align: middle;
+}
+
+.nav-links {
+  justify-content: space-between;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+}
+
+.lists {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.lists li {
+  font-family: serif;
+  font-size: 14px;
+  font-weight: 400;
+}
